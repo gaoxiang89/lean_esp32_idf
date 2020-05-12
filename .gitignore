@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 
 esp32_idf_nrf_nus/build/
+
+esp32_idf_nrf_nus_c/build/
